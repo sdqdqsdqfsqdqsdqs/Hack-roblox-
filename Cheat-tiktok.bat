@@ -7,7 +7,7 @@ goto start
 
 :start
 
-echo Bonjour sur mon programme (bot tiktok)
+echo Bienvenue sur mon programme (bot tiktok)
 echo.
 echo 1 - View bot 
 echo 2 - Share bot
